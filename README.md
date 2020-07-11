@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">🔭 Goals 2020</h2>
 <div align="center", style="font-family:Lucida Console">
+    <p>To secure a challenging position in a reputable organization to expand my learning, knowledge, and skills in the field of problem-solving </p><br>
     Work on Algorithms<br>
     Repolish my skills<br>
     Willing to work upon few ideas<br>
