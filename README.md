@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 <div align="center", style="font-family:Lucida Console">
     To secure a challenging position in a reputable organization to expand my learning, knowledge, and skills in the field of problem-solving<br>
     Work on Algorithms<br>
-    Repolish my skills<br>
     Willing to work upon few ideas<br>
 </div>
  
