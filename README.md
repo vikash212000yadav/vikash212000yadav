@@ -27,14 +27,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <h2 align="center">💡 Currently Working On</h2>
 <div align="center", style="font-family:Lucida Console">
     E-commerce -> Raymond<br>
     COVID-19 District Level Management System<br>
     Hospital Management System<br>
 </div>
-
+-->
+<!--
 <h2 align="center">🌱 Currently Learning</h2>
 <div align="center", style="font-family:Lucida Console">
     Maps Development<br>
@@ -43,14 +44,15 @@ Here are some ideas to get you started:
     Django Channels, GeoDjango<br>
     Algorithms<br>
 </div>
-
+-->
+<!--
 <h2 align="center">🔭 Goals 2020</h2>
 <div align="center", style="font-family:Lucida Console">
     To secure a challenging position in a reputable organization to expand my learning, knowledge, and skills in the field of problem-solving<br>
     Work on Algorithms<br>
     Willing to work upon few ideas<br>
 </div>
- 
+ -->
 <h2 align="center">📫 Get in Touch</h2>
 <div align="center", style="font-family:Lucida Console">
   <a href="vikash212000yadav@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="30px"></a>&nbsp;&nbsp;&nbsp;
