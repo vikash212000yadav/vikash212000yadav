@@ -10,7 +10,7 @@
 
 
 <h2 align="center">💬 Ask me about</h2>
-<p align="center">`Python`, Django, DRF, C++, OOPs, Docker-Compose, PostgreSQL, MySQL, AWS-EC2, Git, Linux...</p>
+<p align="center"> `Python` , Django, DRF, C++, OOPs, Docker-Compose, PostgreSQL, MySQL, AWS-EC2, Git, Linux...</p>
 
 <!--
 **vikash212000yadav/vikash212000yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
