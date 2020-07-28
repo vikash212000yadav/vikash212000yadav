@@ -3,14 +3,14 @@
   <br>
   <samp>
     <br>
-    👋 Hi I'm <strong>Vikash</strong>--a <strong>Python-Django Backend Developer</strong> working on my ideas and trying my best to add some fun in the field of Backend Development. Working with Artsyy team to help companies grow in the digital era. GeekHub community co-ordinator used to mentoring tech geeks.🌟
+    👋 Hi I'm <strong>Vikash</strong>--a <strong>Python-Django Backend Developer</strong> working on my ideas and trying my best to add some fun in the field of Backend Development. Working with VOLSKO team to help companies grow in the digital era. GeekHub community co-ordinator used to mentoring tech geeks.🌟
     <br><br>
   </samp>
 </p>
 
 
 <h2 align="center">💬 Ask me about</h2>
-<p align="center"> `Python` , Django, DRF, C++, OOPs, Docker-Compose, PostgreSQL, MySQL, AWS-EC2, Git, Linux...</p>
+<p align="center"> Python, Django, DRF, C++, OOPs, Docker-Compose, PostgreSQL, MySQL, AWS-EC2, Git, Linux...</p>
 
 <!--
 **vikash212000yadav/vikash212000yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
