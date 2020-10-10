@@ -3,7 +3,7 @@
   <br>
   <samp>
     <br>
-    👋 Hi I'm <strong>Vikash</strong>--a <strong>Python-Django Backend Developer</strong> working on my ideas and trying my best to add some fun in the field of Backend Development. Working with VOLSKO INFOTECH INDIA PVT. LTD. team to help companies grow in the digital era. GeekHub community co-ordinator used to mentoring tech geeks.🌟
+    👋 Hi I'm <strong>Vikash</strong>--a <strong>Python-Django Backend Developer</strong> working on my ideas and trying my best to add some fun in the field of Backend Development. Working with NuNorm Analytics team to help companies grow in the digital era. GeekHub community co-ordinator used to mentoring tech geeks.🌟
     <br><br>
   </samp>
 </p>
