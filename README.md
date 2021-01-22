@@ -60,5 +60,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/vikash21"><img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" width="30px"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vikash212000yadav"><img src="https://pngimg.com/uploads/github/github_PNG40.png" width="30px"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/vikash1598/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30px"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/life_goals.21/"><img src="https://i.pinimg.com/originals/71/72/16/7172161b580470deb78078669236d2c1.jpg" width="30px"></a>
+  <a href="https://www.instagram.com/wickedvicky/"><img src="https://i.pinimg.com/originals/71/72/16/7172161b580470deb78078669236d2c1.jpg" width="30px"></a>
 </div>
