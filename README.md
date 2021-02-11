@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <h2 align="center">📫 Get in Touch</h2>
 <div align="center", style="font-family:Lucida Console">
   <a href="vikash212000yadav@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="30px"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/lifegoals_21"><img src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" width="30px"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/wickedvicky_"><img src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" width="30px"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vikash21"><img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" width="30px"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vikash212000yadav"><img src="https://pngimg.com/uploads/github/github_PNG40.png" width="30px"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/vikash1598/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30px"></a>&nbsp;&nbsp;&nbsp;
