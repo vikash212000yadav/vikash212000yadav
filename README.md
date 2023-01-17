@@ -3,14 +3,14 @@
   <br>
   <samp>
     <br>
-    👋 Hi I'm <strong>Vikash Yadav</strong>--a <strong>Software Engineer</strong> working on my ideas and trying my best to add some fun in the field of Backend Development. Working with <strong>Cron Labs</strong> team to help companies grow in the digital era. GeekHub community co-ordinator used to mentoring tech geeks.🌟
+    👋 Hi I'm <strong>Vikash Yadav</strong>--a <strong>Software Engineer</strong> working on my ideas and trying my best to add some fun in the field of Backend Development. Working with <strong>Cradlewise Inc.</strong> team to make intelligent baby cribs. GeekHub community co-ordinator used to mentoring tech geeks.🌟
     <br><br>
   </samp>
 </p>
 
 
 <h2 align="center">💬 Ask me about</h2>
-<p align="center"> Python, Django, DRF, React-JS, C++, OOPs, Docker-Compose, PostgreSQL, MySQL, AWS-EC2, Git, Linux...</p>
+<p align="center"> Python, Django, Flask, DRF, React-JS, C++, OOPs, Docker-Compose, PostgreSQL, MySQL, MongoDB, AWS-EC2, AWS-S3, AWS-Lambda, AWS-APIGateway, AWS-Cloudwatch, AWS-VPC, Git, Linux...</p>
 
 <!--
 **vikash212000yadav/vikash212000yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
